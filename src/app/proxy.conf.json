@@ -1,0 +1,8 @@
+{
+    "/echo":{
+        "target":"https://reqbin.com",
+        "secure": true,
+        "changeOrgin": true,
+        "logLevel":"debug"
+    }
+}
